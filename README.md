@@ -12,7 +12,7 @@ opening the console window mac `command + options + c`
   + `Delete` to remove the selected element
 
   + Simulate state (anchor <a>), by clicking the `:hov` from the righ side options (Styles)
-<img width="467" alt="Screenshot 2024-12-29 at 8 21 43 PM" src="https://github.com/user-attachments/assets/a05d63ee-ef5f-4475-81c5-7c9a519b7a4c" />
+    <img width="467" alt="Screenshot 2024-12-29 at 8 21 43 PM" src="https://github.com/user-attachments/assets/a05d63ee-ef5f-4475-81c5-7c9a519b7a4c" />
   +
 + Console Panel
   + Can be use to execute javascript
