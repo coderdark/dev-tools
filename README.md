@@ -1,4 +1,4 @@
-# dev-tools
+# DevTools
 opening the console window mac `command + options + c`
 
 ## Panels
