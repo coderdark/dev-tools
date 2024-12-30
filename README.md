@@ -15,7 +15,11 @@ opening the console window mac `command + options + c`
     <img width="467" alt="Screenshot 2024-12-29 at 8 21 43 PM" src="https://github.com/user-attachments/assets/a05d63ee-ef5f-4475-81c5-7c9a519b7a4c" />
   + You can add a new class by selecting the `+` icon on the right side panel, once you selected an element
     <img width="470" alt="Screenshot 2024-12-29 at 8 28 39 PM" src="https://github.com/user-attachments/assets/317e5914-bc36-41eb-b056-609283728f82" />
-  + Click on the `Computed` to see the style you are looking for and what is applying it according to CSS Specificity (https://developer.mozilla.org/en-US/docs/Web/CSS/Specificity#selector_weight_categories)
+  + Click on the `Computed` to see ALL the styles applied to the selected element according to  CSS Specificity (https://developer.mozilla.org/en-US/docs/Web/CSS/Specificity#selector_weight_categories)
+    + Click on the style to expand and see all the styles that are applied
+    + Click on the error next to the style value to go to it. See below...
+    <img width="422" alt="Screenshot 2024-12-29 at 8 41 39 PM" src="https://github.com/user-attachments/assets/98e6cd61-2ca0-452a-8c75-252e2d227957" />
+  +
 + Console Panel
   + Can be use to execute javascript
   + Typing `$0` in the console will give you the last element selected in the Elmement Panel. $1,$2 and so on are the previous selections.  If no previous selection then $1 or $2 are undefined
