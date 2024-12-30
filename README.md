@@ -11,8 +11,10 @@ opening the console window mac `command + options + c`
   + `H` to hide the selected element
   + `Delete` to remove the selected element
 
-  + Simulate state (anchor <a>), by clicking the `:hov` from the righ side options (Styles)
+  + Simulate state (anchor <a>), by clicking the `:hov` from the righ side panel (Styles)
     <img width="467" alt="Screenshot 2024-12-29 at 8 21 43 PM" src="https://github.com/user-attachments/assets/a05d63ee-ef5f-4475-81c5-7c9a519b7a4c" />
+  + You can add a new class by selecting the `+` icon on the right side panel, once you selected an element
+    <img width="470" alt="Screenshot 2024-12-29 at 8 28 39 PM" src="https://github.com/user-attachments/assets/317e5914-bc36-41eb-b056-609283728f82" />
   +
 + Console Panel
   + Can be use to execute javascript
