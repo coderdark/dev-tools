@@ -10,3 +10,7 @@ opening the console window mac `command + options + c`
 + Console Panel
   + Can be use to execute javascript
   + Typing $0 in the console will give you the last element selected in the Elmement Panel.
++ Source Panel
+  +
++ Application Panel
+  + Can view storage, cookies, service workers for PWA (Progressive Web App)
