@@ -7,6 +7,6 @@ opening the console window mac `command + options + c`
   + Can change classes and ids
   + Update styles
   + Modify HTML
-+ Console
++ Console Panel
   + Can be use to execute javascript
-  + $0 in the console will give you the last element selected in the Elmement Panel.
+  + Typing $0 in the console will give you the last element selected in the Elmement Panel.
